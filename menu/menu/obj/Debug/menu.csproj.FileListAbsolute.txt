@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\menu\menu\bin\Debug\menu.exe.config
+C:\Users\user\Desktop\menu\menu\bin\Debug\menu.exe
+C:\Users\user\Desktop\menu\menu\bin\Debug\menu.pdb
+C:\Users\user\Desktop\menu\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\menu\menu\obj\Debug\menu.Form1.resources
+C:\Users\user\Desktop\menu\menu\obj\Debug\menu.Form2.resources
+C:\Users\user\Desktop\menu\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\user\Desktop\menu\menu\obj\Debug\menu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\menu\menu\obj\Debug\menu.exe
+C:\Users\user\Desktop\menu\menu\obj\Debug\menu.pdb
+C:\Users\user\Desktop\menu\menu\obj\Debug\menu.exe.config
+C:\Users\user\Desktop\menu\menu\obj\Debug\menu.Form3.resources
